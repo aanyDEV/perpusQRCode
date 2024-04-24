@@ -21,7 +21,7 @@ Database Mysql
 
 Lakukan clone repo
 ```
-git clone https://github.com/Tektek9/PerpusQRCode.git
+git clone https://github.com/aanyDEV/perpusQRCode.git
 ```
 
 Masuk folder repo yang sudah di clone
@@ -38,4 +38,4 @@ Jalankan automation
 ```
 python setup.py
 ```
-![](https://github.com/Tektek9/PerpusQRCode/blob/main/demo.gif)
+![](https://github.com/aanyDEV/perpusQRCode/blob/main/demo.gif)
